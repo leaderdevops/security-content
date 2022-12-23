@@ -35,3 +35,4 @@ typing==3.7.4.1
 urllib3==1.25.9
 virtualenv==20.0.21
 zipp==3.1.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
